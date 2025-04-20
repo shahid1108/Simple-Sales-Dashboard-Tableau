@@ -31,8 +31,14 @@
 - **Category Filter**: Focus on individual product categories.
 
 
+ # 🛠 Tools & Technologies Used
+
+- **Tableau:** For interactive data visualization.
+- **Data Source**: Sales Dataset.
 
 
+# 🔗 Tableau Public Link
+- 🔗 **View the Interactive Dashboard:**(https://public.tableau.com/app/profile/shahid.shaikh6835/vizzes)
 
 
 
